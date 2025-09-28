@@ -1,6 +1,4 @@
-# 🚨 Emergency Response USSD System
-
-**Connecting disaster victims to life-saving resources through basic mobile phones**
+🌊 A USSD-based platform that helps flood victims quickly request shelter, food, or transport using any mobile phone. Requests are routed to NGOs, volunteers, and agencies in real time, with security checks to prevent misuse. Built to deliver fast, accessible, and scalable disaster relief during floods and beyond.
 
 ## 🌍 The Problem
 
@@ -317,5 +315,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source community for tools and libraries
 
 ---
+
 
 **Built with ❤️ for disaster resilience in Nigeria and beyond**
